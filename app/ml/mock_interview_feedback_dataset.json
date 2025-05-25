@@ -1,0 +1,1995 @@
+[
+  {
+    "feedback": "Good attention to detail, but needs to improve debugging.",
+    "strengths": [
+      "attention to detail"
+    ],
+    "weaknesses": [
+      "debugging"
+    ]
+  },
+  {
+    "feedback": "Good DSA knowledge, but needs to improve overengineering.",
+    "strengths": [
+      "DSA knowledge"
+    ],
+    "weaknesses": [
+      "overengineering"
+    ]
+  },
+  {
+    "feedback": "Good leadership, but needs to improve vague explanation.",
+    "strengths": [
+      "leadership"
+    ],
+    "weaknesses": [
+      "vague explanation"
+    ]
+  },
+  {
+    "feedback": "Good clear thought process, but needs to improve code readability.",
+    "strengths": [
+      "clear thought process"
+    ],
+    "weaknesses": [
+      "code readability"
+    ]
+  },
+  {
+    "feedback": "Good team collaboration, but needs to improve code readability.",
+    "strengths": [
+      "team collaboration"
+    ],
+    "weaknesses": [
+      "code readability"
+    ]
+  },
+  {
+    "feedback": "Good API knowledge and leadership, but needs to improve debugging.",
+    "strengths": [
+      "API knowledge",
+      "leadership"
+    ],
+    "weaknesses": [
+      "debugging"
+    ]
+  },
+  {
+    "feedback": "Good attention to detail, but needs to improve vague explanation.",
+    "strengths": [
+      "attention to detail"
+    ],
+    "weaknesses": [
+      "vague explanation"
+    ]
+  },
+  {
+    "feedback": "Good DSA knowledge and problem solving, but needs to improve lack of confidence and conciseness.",
+    "strengths": [
+      "DSA knowledge",
+      "problem solving"
+    ],
+    "weaknesses": [
+      "lack of confidence",
+      "conciseness"
+    ]
+  },
+  {
+    "feedback": "Good clear thought process, but needs to improve lack of confidence and overengineering.",
+    "strengths": [
+      "clear thought process"
+    ],
+    "weaknesses": [
+      "lack of confidence",
+      "overengineering"
+    ]
+  },
+  {
+    "feedback": "Good attention to detail and API knowledge, but needs to improve misunderstood question.",
+    "strengths": [
+      "attention to detail",
+      "API knowledge"
+    ],
+    "weaknesses": [
+      "misunderstood question"
+    ]
+  },
+  {
+    "feedback": "Good clear thought process, but needs to improve misunderstood question and debugging.",
+    "strengths": [
+      "clear thought process"
+    ],
+    "weaknesses": [
+      "misunderstood question",
+      "debugging"
+    ]
+  },
+  {
+    "feedback": "Good attention to detail and clear thought process, but needs to improve edge case handling.",
+    "strengths": [
+      "attention to detail",
+      "clear thought process"
+    ],
+    "weaknesses": [
+      "edge case handling"
+    ]
+  },
+  {
+    "feedback": "Good clear thought process, but needs to improve code readability and conciseness.",
+    "strengths": [
+      "clear thought process"
+    ],
+    "weaknesses": [
+      "code readability",
+      "conciseness"
+    ]
+  },
+  {
+    "feedback": "Good API knowledge and learning ability, but needs to improve lack of confidence and time complexity.",
+    "strengths": [
+      "API knowledge",
+      "learning ability"
+    ],
+    "weaknesses": [
+      "lack of confidence",
+      "time complexity"
+    ]
+  },
+  {
+    "feedback": "Good problem solving and learning ability, but needs to improve debugging and incomplete answers.",
+    "strengths": [
+      "problem solving",
+      "learning ability"
+    ],
+    "weaknesses": [
+      "debugging",
+      "incomplete answers"
+    ]
+  },
+  {
+    "feedback": "Good team collaboration, but needs to improve overengineering.",
+    "strengths": [
+      "team collaboration"
+    ],
+    "weaknesses": [
+      "overengineering"
+    ]
+  },
+  {
+    "feedback": "Good API knowledge, but needs to improve vague explanation.",
+    "strengths": [
+      "API knowledge"
+    ],
+    "weaknesses": [
+      "vague explanation"
+    ]
+  },
+  {
+    "feedback": "Good learning ability and technical explanation, but needs to improve edge case handling.",
+    "strengths": [
+      "learning ability",
+      "technical explanation"
+    ],
+    "weaknesses": [
+      "edge case handling"
+    ]
+  },
+  {
+    "feedback": "Good technical explanation, but needs to improve vague explanation.",
+    "strengths": [
+      "technical explanation"
+    ],
+    "weaknesses": [
+      "vague explanation"
+    ]
+  },
+  {
+    "feedback": "Good problem solving and leadership, but needs to improve overengineering.",
+    "strengths": [
+      "problem solving",
+      "leadership"
+    ],
+    "weaknesses": [
+      "overengineering"
+    ]
+  },
+  {
+    "feedback": "Good learning ability and API knowledge, but needs to improve vague explanation.",
+    "strengths": [
+      "learning ability",
+      "API knowledge"
+    ],
+    "weaknesses": [
+      "vague explanation"
+    ]
+  },
+  {
+    "feedback": "Good confidence and DSA knowledge, but needs to improve code readability.",
+    "strengths": [
+      "confidence",
+      "DSA knowledge"
+    ],
+    "weaknesses": [
+      "code readability"
+    ]
+  },
+  {
+    "feedback": "Good leadership and system design, but needs to improve lack of confidence and code readability.",
+    "strengths": [
+      "leadership",
+      "system design"
+    ],
+    "weaknesses": [
+      "lack of confidence",
+      "code readability"
+    ]
+  },
+  {
+    "feedback": "Good clear thought process, but needs to improve edge case handling and conciseness.",
+    "strengths": [
+      "clear thought process"
+    ],
+    "weaknesses": [
+      "edge case handling",
+      "conciseness"
+    ]
+  },
+  {
+    "feedback": "Good learning ability, but needs to improve vague explanation.",
+    "strengths": [
+      "learning ability"
+    ],
+    "weaknesses": [
+      "vague explanation"
+    ]
+  },
+  {
+    "feedback": "Good system design, but needs to improve poor system design and slow problem solving.",
+    "strengths": [
+      "system design"
+    ],
+    "weaknesses": [
+      "poor system design",
+      "slow problem solving"
+    ]
+  },
+  {
+    "feedback": "Good learning ability and clear thought process, but needs to improve incomplete answers.",
+    "strengths": [
+      "learning ability",
+      "clear thought process"
+    ],
+    "weaknesses": [
+      "incomplete answers"
+    ]
+  },
+  {
+    "feedback": "Good clear thought process and confidence, but needs to improve vague explanation and time complexity.",
+    "strengths": [
+      "clear thought process",
+      "confidence"
+    ],
+    "weaknesses": [
+      "vague explanation",
+      "time complexity"
+    ]
+  },
+  {
+    "feedback": "Good attention to detail and confidence, but needs to improve misunderstood question.",
+    "strengths": [
+      "attention to detail",
+      "confidence"
+    ],
+    "weaknesses": [
+      "misunderstood question"
+    ]
+  },
+  {
+    "feedback": "Good learning ability, but needs to improve debugging.",
+    "strengths": [
+      "learning ability"
+    ],
+    "weaknesses": [
+      "debugging"
+    ]
+  },
+  {
+    "feedback": "Good technical explanation, but needs to improve time complexity.",
+    "strengths": [
+      "technical explanation"
+    ],
+    "weaknesses": [
+      "time complexity"
+    ]
+  },
+  {
+    "feedback": "Good API knowledge, but needs to improve edge case handling and conciseness.",
+    "strengths": [
+      "API knowledge"
+    ],
+    "weaknesses": [
+      "edge case handling",
+      "conciseness"
+    ]
+  },
+  {
+    "feedback": "Good problem solving and communication, but needs to improve code readability and poor system design.",
+    "strengths": [
+      "problem solving",
+      "communication"
+    ],
+    "weaknesses": [
+      "code readability",
+      "poor system design"
+    ]
+  },
+  {
+    "feedback": "Good attention to detail, but needs to improve slow problem solving.",
+    "strengths": [
+      "attention to detail"
+    ],
+    "weaknesses": [
+      "slow problem solving"
+    ]
+  },
+  {
+    "feedback": "Good DSA knowledge, but needs to improve incomplete answers.",
+    "strengths": [
+      "DSA knowledge"
+    ],
+    "weaknesses": [
+      "incomplete answers"
+    ]
+  },
+  {
+    "feedback": "Good confidence and team collaboration, but needs to improve poor system design.",
+    "strengths": [
+      "confidence",
+      "team collaboration"
+    ],
+    "weaknesses": [
+      "poor system design"
+    ]
+  },
+  {
+    "feedback": "Good team collaboration and problem solving, but needs to improve overengineering.",
+    "strengths": [
+      "team collaboration",
+      "problem solving"
+    ],
+    "weaknesses": [
+      "overengineering"
+    ]
+  },
+  {
+    "feedback": "Good learning ability and attention to detail, but needs to improve lack of confidence and slow problem solving.",
+    "strengths": [
+      "learning ability",
+      "attention to detail"
+    ],
+    "weaknesses": [
+      "lack of confidence",
+      "slow problem solving"
+    ]
+  },
+  {
+    "feedback": "Good problem solving and attention to detail, but needs to improve conciseness.",
+    "strengths": [
+      "problem solving",
+      "attention to detail"
+    ],
+    "weaknesses": [
+      "conciseness"
+    ]
+  },
+  {
+    "feedback": "Good leadership and team collaboration, but needs to improve code readability.",
+    "strengths": [
+      "leadership",
+      "team collaboration"
+    ],
+    "weaknesses": [
+      "code readability"
+    ]
+  },
+  {
+    "feedback": "Good clear thought process, but needs to improve overengineering.",
+    "strengths": [
+      "clear thought process"
+    ],
+    "weaknesses": [
+      "overengineering"
+    ]
+  },
+  {
+    "feedback": "Good clear thought process, but needs to improve edge case handling.",
+    "strengths": [
+      "clear thought process"
+    ],
+    "weaknesses": [
+      "edge case handling"
+    ]
+  },
+  {
+    "feedback": "Good team collaboration and problem solving, but needs to improve debugging.",
+    "strengths": [
+      "team collaboration",
+      "problem solving"
+    ],
+    "weaknesses": [
+      "debugging"
+    ]
+  },
+  {
+    "feedback": "Good team collaboration and DSA knowledge, but needs to improve overengineering.",
+    "strengths": [
+      "team collaboration",
+      "DSA knowledge"
+    ],
+    "weaknesses": [
+      "overengineering"
+    ]
+  },
+  {
+    "feedback": "Good API knowledge and system design, but needs to improve code readability.",
+    "strengths": [
+      "API knowledge",
+      "system design"
+    ],
+    "weaknesses": [
+      "code readability"
+    ]
+  },
+  {
+    "feedback": "Good learning ability, but needs to improve vague explanation.",
+    "strengths": [
+      "learning ability"
+    ],
+    "weaknesses": [
+      "vague explanation"
+    ]
+  },
+  {
+    "feedback": "Good system design and API knowledge, but needs to improve overengineering and edge case handling.",
+    "strengths": [
+      "system design",
+      "API knowledge"
+    ],
+    "weaknesses": [
+      "overengineering",
+      "edge case handling"
+    ]
+  },
+  {
+    "feedback": "Good system design, but needs to improve overengineering.",
+    "strengths": [
+      "system design"
+    ],
+    "weaknesses": [
+      "overengineering"
+    ]
+  },
+  {
+    "feedback": "Good problem solving and attention to detail, but needs to improve code readability.",
+    "strengths": [
+      "problem solving",
+      "attention to detail"
+    ],
+    "weaknesses": [
+      "code readability"
+    ]
+  },
+  {
+    "feedback": "Good system design and DSA knowledge, but needs to improve debugging.",
+    "strengths": [
+      "system design",
+      "DSA knowledge"
+    ],
+    "weaknesses": [
+      "debugging"
+    ]
+  },
+  {
+    "feedback": "Good clear thought process and API knowledge, but needs to improve misunderstood question.",
+    "strengths": [
+      "clear thought process",
+      "API knowledge"
+    ],
+    "weaknesses": [
+      "misunderstood question"
+    ]
+  },
+  {
+    "feedback": "Good learning ability, but needs to improve misunderstood question.",
+    "strengths": [
+      "learning ability"
+    ],
+    "weaknesses": [
+      "misunderstood question"
+    ]
+  },
+  {
+    "feedback": "Good problem solving, but needs to improve time complexity.",
+    "strengths": [
+      "problem solving"
+    ],
+    "weaknesses": [
+      "time complexity"
+    ]
+  },
+  {
+    "feedback": "Good API knowledge and problem solving, but needs to improve vague explanation and edge case handling.",
+    "strengths": [
+      "API knowledge",
+      "problem solving"
+    ],
+    "weaknesses": [
+      "vague explanation",
+      "edge case handling"
+    ]
+  },
+  {
+    "feedback": "Good communication, but needs to improve vague explanation and debugging.",
+    "strengths": [
+      "communication"
+    ],
+    "weaknesses": [
+      "vague explanation",
+      "debugging"
+    ]
+  },
+  {
+    "feedback": "Good system design and team collaboration, but needs to improve incomplete answers and slow problem solving.",
+    "strengths": [
+      "system design",
+      "team collaboration"
+    ],
+    "weaknesses": [
+      "incomplete answers",
+      "slow problem solving"
+    ]
+  },
+  {
+    "feedback": "Good confidence, but needs to improve code readability.",
+    "strengths": [
+      "confidence"
+    ],
+    "weaknesses": [
+      "code readability"
+    ]
+  },
+  {
+    "feedback": "Good attention to detail, but needs to improve lack of confidence.",
+    "strengths": [
+      "attention to detail"
+    ],
+    "weaknesses": [
+      "lack of confidence"
+    ]
+  },
+  {
+    "feedback": "Good leadership, but needs to improve slow problem solving.",
+    "strengths": [
+      "leadership"
+    ],
+    "weaknesses": [
+      "slow problem solving"
+    ]
+  },
+  {
+    "feedback": "Good team collaboration, but needs to improve conciseness.",
+    "strengths": [
+      "team collaboration"
+    ],
+    "weaknesses": [
+      "conciseness"
+    ]
+  },
+  {
+    "feedback": "Good leadership, but needs to improve conciseness.",
+    "strengths": [
+      "leadership"
+    ],
+    "weaknesses": [
+      "conciseness"
+    ]
+  },
+  {
+    "feedback": "Good clear thought process, but needs to improve poor system design and code readability.",
+    "strengths": [
+      "clear thought process"
+    ],
+    "weaknesses": [
+      "poor system design",
+      "code readability"
+    ]
+  },
+  {
+    "feedback": "Good system design, but needs to improve incomplete answers.",
+    "strengths": [
+      "system design"
+    ],
+    "weaknesses": [
+      "incomplete answers"
+    ]
+  },
+  {
+    "feedback": "Good problem solving and learning ability, but needs to improve overengineering and lack of confidence.",
+    "strengths": [
+      "problem solving",
+      "learning ability"
+    ],
+    "weaknesses": [
+      "overengineering",
+      "lack of confidence"
+    ]
+  },
+  {
+    "feedback": "Good system design, but needs to improve time complexity and incomplete answers.",
+    "strengths": [
+      "system design"
+    ],
+    "weaknesses": [
+      "time complexity",
+      "incomplete answers"
+    ]
+  },
+  {
+    "feedback": "Good technical explanation and clear thought process, but needs to improve edge case handling and slow problem solving.",
+    "strengths": [
+      "technical explanation",
+      "clear thought process"
+    ],
+    "weaknesses": [
+      "edge case handling",
+      "slow problem solving"
+    ]
+  },
+  {
+    "feedback": "Good team collaboration, but needs to improve code readability.",
+    "strengths": [
+      "team collaboration"
+    ],
+    "weaknesses": [
+      "code readability"
+    ]
+  },
+  {
+    "feedback": "Good technical explanation and clear thought process, but needs to improve code readability.",
+    "strengths": [
+      "technical explanation",
+      "clear thought process"
+    ],
+    "weaknesses": [
+      "code readability"
+    ]
+  },
+  {
+    "feedback": "Good DSA knowledge and API knowledge, but needs to improve misunderstood question and debugging.",
+    "strengths": [
+      "DSA knowledge",
+      "API knowledge"
+    ],
+    "weaknesses": [
+      "misunderstood question",
+      "debugging"
+    ]
+  },
+  {
+    "feedback": "Good learning ability, but needs to improve conciseness and time complexity.",
+    "strengths": [
+      "learning ability"
+    ],
+    "weaknesses": [
+      "conciseness",
+      "time complexity"
+    ]
+  },
+  {
+    "feedback": "Good clear thought process and team collaboration, but needs to improve time complexity.",
+    "strengths": [
+      "clear thought process",
+      "team collaboration"
+    ],
+    "weaknesses": [
+      "time complexity"
+    ]
+  },
+  {
+    "feedback": "Good leadership and problem solving, but needs to improve overengineering and lack of confidence.",
+    "strengths": [
+      "leadership",
+      "problem solving"
+    ],
+    "weaknesses": [
+      "overengineering",
+      "lack of confidence"
+    ]
+  },
+  {
+    "feedback": "Good team collaboration, but needs to improve slow problem solving and debugging.",
+    "strengths": [
+      "team collaboration"
+    ],
+    "weaknesses": [
+      "slow problem solving",
+      "debugging"
+    ]
+  },
+  {
+    "feedback": "Good learning ability, but needs to improve vague explanation.",
+    "strengths": [
+      "learning ability"
+    ],
+    "weaknesses": [
+      "vague explanation"
+    ]
+  },
+  {
+    "feedback": "Good communication and technical explanation, but needs to improve time complexity.",
+    "strengths": [
+      "communication",
+      "technical explanation"
+    ],
+    "weaknesses": [
+      "time complexity"
+    ]
+  },
+  {
+    "feedback": "Good attention to detail and API knowledge, but needs to improve misunderstood question.",
+    "strengths": [
+      "attention to detail",
+      "API knowledge"
+    ],
+    "weaknesses": [
+      "misunderstood question"
+    ]
+  },
+  {
+    "feedback": "Good clear thought process and attention to detail, but needs to improve overengineering.",
+    "strengths": [
+      "clear thought process",
+      "attention to detail"
+    ],
+    "weaknesses": [
+      "overengineering"
+    ]
+  },
+  {
+    "feedback": "Good technical explanation, but needs to improve poor system design.",
+    "strengths": [
+      "technical explanation"
+    ],
+    "weaknesses": [
+      "poor system design"
+    ]
+  },
+  {
+    "feedback": "Good DSA knowledge, but needs to improve edge case handling and debugging.",
+    "strengths": [
+      "DSA knowledge"
+    ],
+    "weaknesses": [
+      "edge case handling",
+      "debugging"
+    ]
+  },
+  {
+    "feedback": "Good technical explanation and problem solving, but needs to improve incomplete answers.",
+    "strengths": [
+      "technical explanation",
+      "problem solving"
+    ],
+    "weaknesses": [
+      "incomplete answers"
+    ]
+  },
+  {
+    "feedback": "Good technical explanation, but needs to improve misunderstood question.",
+    "strengths": [
+      "technical explanation"
+    ],
+    "weaknesses": [
+      "misunderstood question"
+    ]
+  },
+  {
+    "feedback": "Good problem solving and DSA knowledge, but needs to improve time complexity.",
+    "strengths": [
+      "problem solving",
+      "DSA knowledge"
+    ],
+    "weaknesses": [
+      "time complexity"
+    ]
+  },
+  {
+    "feedback": "Good DSA knowledge and technical explanation, but needs to improve vague explanation.",
+    "strengths": [
+      "DSA knowledge",
+      "technical explanation"
+    ],
+    "weaknesses": [
+      "vague explanation"
+    ]
+  },
+  {
+    "feedback": "Good DSA knowledge, but needs to improve overengineering and conciseness.",
+    "strengths": [
+      "DSA knowledge"
+    ],
+    "weaknesses": [
+      "overengineering",
+      "conciseness"
+    ]
+  },
+  {
+    "feedback": "Good API knowledge and problem solving, but needs to improve code readability.",
+    "strengths": [
+      "API knowledge",
+      "problem solving"
+    ],
+    "weaknesses": [
+      "code readability"
+    ]
+  },
+  {
+    "feedback": "Good confidence and problem solving, but needs to improve code readability and edge case handling.",
+    "strengths": [
+      "confidence",
+      "problem solving"
+    ],
+    "weaknesses": [
+      "code readability",
+      "edge case handling"
+    ]
+  },
+  {
+    "feedback": "Good technical explanation, but needs to improve debugging and conciseness.",
+    "strengths": [
+      "technical explanation"
+    ],
+    "weaknesses": [
+      "debugging",
+      "conciseness"
+    ]
+  },
+  {
+    "feedback": "Good learning ability and team collaboration, but needs to improve vague explanation and incomplete answers.",
+    "strengths": [
+      "learning ability",
+      "team collaboration"
+    ],
+    "weaknesses": [
+      "vague explanation",
+      "incomplete answers"
+    ]
+  },
+  {
+    "feedback": "Good clear thought process and confidence, but needs to improve time complexity.",
+    "strengths": [
+      "clear thought process",
+      "confidence"
+    ],
+    "weaknesses": [
+      "time complexity"
+    ]
+  },
+  {
+    "feedback": "Good clear thought process and leadership, but needs to improve vague explanation.",
+    "strengths": [
+      "clear thought process",
+      "leadership"
+    ],
+    "weaknesses": [
+      "vague explanation"
+    ]
+  },
+  {
+    "feedback": "Good system design and leadership, but needs to improve misunderstood question and conciseness.",
+    "strengths": [
+      "system design",
+      "leadership"
+    ],
+    "weaknesses": [
+      "misunderstood question",
+      "conciseness"
+    ]
+  },
+  {
+    "feedback": "Good confidence and communication, but needs to improve overengineering.",
+    "strengths": [
+      "confidence",
+      "communication"
+    ],
+    "weaknesses": [
+      "overengineering"
+    ]
+  },
+  {
+    "feedback": "Good team collaboration and attention to detail, but needs to improve incomplete answers.",
+    "strengths": [
+      "team collaboration",
+      "attention to detail"
+    ],
+    "weaknesses": [
+      "incomplete answers"
+    ]
+  },
+  {
+    "feedback": "Good system design, but needs to improve conciseness and incomplete answers.",
+    "strengths": [
+      "system design"
+    ],
+    "weaknesses": [
+      "conciseness",
+      "incomplete answers"
+    ]
+  },
+  {
+    "feedback": "Good learning ability and clear thought process, but needs to improve overengineering and debugging.",
+    "strengths": [
+      "learning ability",
+      "clear thought process"
+    ],
+    "weaknesses": [
+      "overengineering",
+      "debugging"
+    ]
+  },
+  {
+    "feedback": "Good technical explanation and system design, but needs to improve overengineering and debugging.",
+    "strengths": [
+      "technical explanation",
+      "system design"
+    ],
+    "weaknesses": [
+      "overengineering",
+      "debugging"
+    ]
+  },
+  {
+    "feedback": "Good system design, but needs to improve incomplete answers.",
+    "strengths": [
+      "system design"
+    ],
+    "weaknesses": [
+      "incomplete answers"
+    ]
+  },
+  {
+    "feedback": "Good leadership and attention to detail, but needs to improve debugging.",
+    "strengths": [
+      "leadership",
+      "attention to detail"
+    ],
+    "weaknesses": [
+      "debugging"
+    ]
+  },
+  {
+    "feedback": "Good confidence and attention to detail, but needs to improve code readability.",
+    "strengths": [
+      "confidence",
+      "attention to detail"
+    ],
+    "weaknesses": [
+      "code readability"
+    ]
+  },
+  {
+    "feedback": "Good API knowledge and attention to detail, but needs to improve slow problem solving and incomplete answers.",
+    "strengths": [
+      "API knowledge",
+      "attention to detail"
+    ],
+    "weaknesses": [
+      "slow problem solving",
+      "incomplete answers"
+    ]
+  },
+  {
+    "feedback": "Good attention to detail, but needs to improve time complexity and incomplete answers.",
+    "strengths": [
+      "attention to detail"
+    ],
+    "weaknesses": [
+      "time complexity",
+      "incomplete answers"
+    ]
+  },
+  {
+    "feedback": "Good team collaboration, but needs to improve incomplete answers and overengineering.",
+    "strengths": [
+      "team collaboration"
+    ],
+    "weaknesses": [
+      "incomplete answers",
+      "overengineering"
+    ]
+  },
+  {
+    "feedback": "Good problem solving and learning ability, but needs to improve debugging.",
+    "strengths": [
+      "problem solving",
+      "learning ability"
+    ],
+    "weaknesses": [
+      "debugging"
+    ]
+  },
+  {
+    "feedback": "Good DSA knowledge, but needs to improve edge case handling.",
+    "strengths": [
+      "DSA knowledge"
+    ],
+    "weaknesses": [
+      "edge case handling"
+    ]
+  },
+  {
+    "feedback": "Good API knowledge, but needs to improve poor system design.",
+    "strengths": [
+      "API knowledge"
+    ],
+    "weaknesses": [
+      "poor system design"
+    ]
+  },
+  {
+    "feedback": "Good system design, but needs to improve incomplete answers and poor system design.",
+    "strengths": [
+      "system design"
+    ],
+    "weaknesses": [
+      "incomplete answers",
+      "poor system design"
+    ]
+  },
+  {
+    "feedback": "Good API knowledge, but needs to improve vague explanation and code readability.",
+    "strengths": [
+      "API knowledge"
+    ],
+    "weaknesses": [
+      "vague explanation",
+      "code readability"
+    ]
+  },
+  {
+    "feedback": "Good clear thought process, but needs to improve vague explanation.",
+    "strengths": [
+      "clear thought process"
+    ],
+    "weaknesses": [
+      "vague explanation"
+    ]
+  },
+  {
+    "feedback": "Good attention to detail, but needs to improve misunderstood question.",
+    "strengths": [
+      "attention to detail"
+    ],
+    "weaknesses": [
+      "misunderstood question"
+    ]
+  },
+  {
+    "feedback": "Good team collaboration and problem solving, but needs to improve conciseness.",
+    "strengths": [
+      "team collaboration",
+      "problem solving"
+    ],
+    "weaknesses": [
+      "conciseness"
+    ]
+  },
+  {
+    "feedback": "Good API knowledge and learning ability, but needs to improve misunderstood question.",
+    "strengths": [
+      "API knowledge",
+      "learning ability"
+    ],
+    "weaknesses": [
+      "misunderstood question"
+    ]
+  },
+  {
+    "feedback": "Good leadership and team collaboration, but needs to improve vague explanation and misunderstood question.",
+    "strengths": [
+      "leadership",
+      "team collaboration"
+    ],
+    "weaknesses": [
+      "vague explanation",
+      "misunderstood question"
+    ]
+  },
+  {
+    "feedback": "Good attention to detail and API knowledge, but needs to improve slow problem solving.",
+    "strengths": [
+      "attention to detail",
+      "API knowledge"
+    ],
+    "weaknesses": [
+      "slow problem solving"
+    ]
+  },
+  {
+    "feedback": "Good learning ability and confidence, but needs to improve misunderstood question.",
+    "strengths": [
+      "learning ability",
+      "confidence"
+    ],
+    "weaknesses": [
+      "misunderstood question"
+    ]
+  },
+  {
+    "feedback": "Good confidence and API knowledge, but needs to improve conciseness.",
+    "strengths": [
+      "confidence",
+      "API knowledge"
+    ],
+    "weaknesses": [
+      "conciseness"
+    ]
+  },
+  {
+    "feedback": "Good confidence and technical explanation, but needs to improve lack of confidence.",
+    "strengths": [
+      "confidence",
+      "technical explanation"
+    ],
+    "weaknesses": [
+      "lack of confidence"
+    ]
+  },
+  {
+    "feedback": "Good DSA knowledge, but needs to improve code readability.",
+    "strengths": [
+      "DSA knowledge"
+    ],
+    "weaknesses": [
+      "code readability"
+    ]
+  },
+  {
+    "feedback": "Good attention to detail and problem solving, but needs to improve conciseness.",
+    "strengths": [
+      "attention to detail",
+      "problem solving"
+    ],
+    "weaknesses": [
+      "conciseness"
+    ]
+  },
+  {
+    "feedback": "Good technical explanation and team collaboration, but needs to improve slow problem solving and vague explanation.",
+    "strengths": [
+      "technical explanation",
+      "team collaboration"
+    ],
+    "weaknesses": [
+      "slow problem solving",
+      "vague explanation"
+    ]
+  },
+  {
+    "feedback": "Good system design, but needs to improve vague explanation.",
+    "strengths": [
+      "system design"
+    ],
+    "weaknesses": [
+      "vague explanation"
+    ]
+  },
+  {
+    "feedback": "Good API knowledge, but needs to improve edge case handling and lack of confidence.",
+    "strengths": [
+      "API knowledge"
+    ],
+    "weaknesses": [
+      "edge case handling",
+      "lack of confidence"
+    ]
+  },
+  {
+    "feedback": "Good system design and team collaboration, but needs to improve overengineering and misunderstood question.",
+    "strengths": [
+      "system design",
+      "team collaboration"
+    ],
+    "weaknesses": [
+      "overengineering",
+      "misunderstood question"
+    ]
+  },
+  {
+    "feedback": "Good problem solving, but needs to improve debugging and vague explanation.",
+    "strengths": [
+      "problem solving"
+    ],
+    "weaknesses": [
+      "debugging",
+      "vague explanation"
+    ]
+  },
+  {
+    "feedback": "Good system design and technical explanation, but needs to improve incomplete answers.",
+    "strengths": [
+      "system design",
+      "technical explanation"
+    ],
+    "weaknesses": [
+      "incomplete answers"
+    ]
+  },
+  {
+    "feedback": "Good API knowledge and DSA knowledge, but needs to improve poor system design.",
+    "strengths": [
+      "API knowledge",
+      "DSA knowledge"
+    ],
+    "weaknesses": [
+      "poor system design"
+    ]
+  },
+  {
+    "feedback": "Good leadership, but needs to improve poor system design and incomplete answers.",
+    "strengths": [
+      "leadership"
+    ],
+    "weaknesses": [
+      "poor system design",
+      "incomplete answers"
+    ]
+  },
+  {
+    "feedback": "Good learning ability, but needs to improve vague explanation.",
+    "strengths": [
+      "learning ability"
+    ],
+    "weaknesses": [
+      "vague explanation"
+    ]
+  },
+  {
+    "feedback": "Good DSA knowledge, but needs to improve edge case handling and debugging.",
+    "strengths": [
+      "DSA knowledge"
+    ],
+    "weaknesses": [
+      "edge case handling",
+      "debugging"
+    ]
+  },
+  {
+    "feedback": "Good problem solving and API knowledge, but needs to improve lack of confidence and overengineering.",
+    "strengths": [
+      "problem solving",
+      "API knowledge"
+    ],
+    "weaknesses": [
+      "lack of confidence",
+      "overengineering"
+    ]
+  },
+  {
+    "feedback": "Good system design and confidence, but needs to improve conciseness and slow problem solving.",
+    "strengths": [
+      "system design",
+      "confidence"
+    ],
+    "weaknesses": [
+      "conciseness",
+      "slow problem solving"
+    ]
+  },
+  {
+    "feedback": "Good technical explanation, but needs to improve code readability.",
+    "strengths": [
+      "technical explanation"
+    ],
+    "weaknesses": [
+      "code readability"
+    ]
+  },
+  {
+    "feedback": "Good communication, but needs to improve code readability.",
+    "strengths": [
+      "communication"
+    ],
+    "weaknesses": [
+      "code readability"
+    ]
+  },
+  {
+    "feedback": "Good leadership, but needs to improve time complexity.",
+    "strengths": [
+      "leadership"
+    ],
+    "weaknesses": [
+      "time complexity"
+    ]
+  },
+  {
+    "feedback": "Good API knowledge, but needs to improve incomplete answers.",
+    "strengths": [
+      "API knowledge"
+    ],
+    "weaknesses": [
+      "incomplete answers"
+    ]
+  },
+  {
+    "feedback": "Good API knowledge, but needs to improve overengineering.",
+    "strengths": [
+      "API knowledge"
+    ],
+    "weaknesses": [
+      "overengineering"
+    ]
+  },
+  {
+    "feedback": "Good DSA knowledge and leadership, but needs to improve poor system design and conciseness.",
+    "strengths": [
+      "DSA knowledge",
+      "leadership"
+    ],
+    "weaknesses": [
+      "poor system design",
+      "conciseness"
+    ]
+  },
+  {
+    "feedback": "Good clear thought process, but needs to improve poor system design and edge case handling.",
+    "strengths": [
+      "clear thought process"
+    ],
+    "weaknesses": [
+      "poor system design",
+      "edge case handling"
+    ]
+  },
+  {
+    "feedback": "Good system design and problem solving, but needs to improve conciseness and poor system design.",
+    "strengths": [
+      "system design",
+      "problem solving"
+    ],
+    "weaknesses": [
+      "conciseness",
+      "poor system design"
+    ]
+  },
+  {
+    "feedback": "Good attention to detail, but needs to improve debugging.",
+    "strengths": [
+      "attention to detail"
+    ],
+    "weaknesses": [
+      "debugging"
+    ]
+  },
+  {
+    "feedback": "Good technical explanation, but needs to improve misunderstood question.",
+    "strengths": [
+      "technical explanation"
+    ],
+    "weaknesses": [
+      "misunderstood question"
+    ]
+  },
+  {
+    "feedback": "Good clear thought process and team collaboration, but needs to improve incomplete answers and lack of confidence.",
+    "strengths": [
+      "clear thought process",
+      "team collaboration"
+    ],
+    "weaknesses": [
+      "incomplete answers",
+      "lack of confidence"
+    ]
+  },
+  {
+    "feedback": "Good API knowledge, but needs to improve conciseness and vague explanation.",
+    "strengths": [
+      "API knowledge"
+    ],
+    "weaknesses": [
+      "conciseness",
+      "vague explanation"
+    ]
+  },
+  {
+    "feedback": "Good attention to detail and DSA knowledge, but needs to improve vague explanation and time complexity.",
+    "strengths": [
+      "attention to detail",
+      "DSA knowledge"
+    ],
+    "weaknesses": [
+      "vague explanation",
+      "time complexity"
+    ]
+  },
+  {
+    "feedback": "Good API knowledge and system design, but needs to improve overengineering and poor system design.",
+    "strengths": [
+      "API knowledge",
+      "system design"
+    ],
+    "weaknesses": [
+      "overengineering",
+      "poor system design"
+    ]
+  },
+  {
+    "feedback": "Good problem solving and clear thought process, but needs to improve debugging and slow problem solving.",
+    "strengths": [
+      "problem solving",
+      "clear thought process"
+    ],
+    "weaknesses": [
+      "debugging",
+      "slow problem solving"
+    ]
+  },
+  {
+    "feedback": "Good leadership, but needs to improve poor system design and incomplete answers.",
+    "strengths": [
+      "leadership"
+    ],
+    "weaknesses": [
+      "poor system design",
+      "incomplete answers"
+    ]
+  },
+  {
+    "feedback": "Good communication and API knowledge, but needs to improve lack of confidence and time complexity.",
+    "strengths": [
+      "communication",
+      "API knowledge"
+    ],
+    "weaknesses": [
+      "lack of confidence",
+      "time complexity"
+    ]
+  },
+  {
+    "feedback": "Good technical explanation and confidence, but needs to improve lack of confidence.",
+    "strengths": [
+      "technical explanation",
+      "confidence"
+    ],
+    "weaknesses": [
+      "lack of confidence"
+    ]
+  },
+  {
+    "feedback": "Good team collaboration and communication, but needs to improve misunderstood question and code readability.",
+    "strengths": [
+      "team collaboration",
+      "communication"
+    ],
+    "weaknesses": [
+      "misunderstood question",
+      "code readability"
+    ]
+  },
+  {
+    "feedback": "Good attention to detail, but needs to improve vague explanation.",
+    "strengths": [
+      "attention to detail"
+    ],
+    "weaknesses": [
+      "vague explanation"
+    ]
+  },
+  {
+    "feedback": "Good attention to detail and API knowledge, but needs to improve incomplete answers.",
+    "strengths": [
+      "attention to detail",
+      "API knowledge"
+    ],
+    "weaknesses": [
+      "incomplete answers"
+    ]
+  },
+  {
+    "feedback": "Good communication and clear thought process, but needs to improve debugging and code readability.",
+    "strengths": [
+      "communication",
+      "clear thought process"
+    ],
+    "weaknesses": [
+      "debugging",
+      "code readability"
+    ]
+  },
+  {
+    "feedback": "Good confidence and learning ability, but needs to improve poor system design.",
+    "strengths": [
+      "confidence",
+      "learning ability"
+    ],
+    "weaknesses": [
+      "poor system design"
+    ]
+  },
+  {
+    "feedback": "Good team collaboration and attention to detail, but needs to improve lack of confidence and vague explanation.",
+    "strengths": [
+      "team collaboration",
+      "attention to detail"
+    ],
+    "weaknesses": [
+      "lack of confidence",
+      "vague explanation"
+    ]
+  },
+  {
+    "feedback": "Good attention to detail and API knowledge, but needs to improve debugging and overengineering.",
+    "strengths": [
+      "attention to detail",
+      "API knowledge"
+    ],
+    "weaknesses": [
+      "debugging",
+      "overengineering"
+    ]
+  },
+  {
+    "feedback": "Good clear thought process and problem solving, but needs to improve lack of confidence.",
+    "strengths": [
+      "clear thought process",
+      "problem solving"
+    ],
+    "weaknesses": [
+      "lack of confidence"
+    ]
+  },
+  {
+    "feedback": "Good problem solving, but needs to improve code readability.",
+    "strengths": [
+      "problem solving"
+    ],
+    "weaknesses": [
+      "code readability"
+    ]
+  },
+  {
+    "feedback": "Good attention to detail and leadership, but needs to improve misunderstood question and poor system design.",
+    "strengths": [
+      "attention to detail",
+      "leadership"
+    ],
+    "weaknesses": [
+      "misunderstood question",
+      "poor system design"
+    ]
+  },
+  {
+    "feedback": "Good problem solving and confidence, but needs to improve code readability.",
+    "strengths": [
+      "problem solving",
+      "confidence"
+    ],
+    "weaknesses": [
+      "code readability"
+    ]
+  },
+  {
+    "feedback": "Good confidence and communication, but needs to improve overengineering.",
+    "strengths": [
+      "confidence",
+      "communication"
+    ],
+    "weaknesses": [
+      "overengineering"
+    ]
+  },
+  {
+    "feedback": "Good communication, but needs to improve edge case handling and misunderstood question.",
+    "strengths": [
+      "communication"
+    ],
+    "weaknesses": [
+      "edge case handling",
+      "misunderstood question"
+    ]
+  },
+  {
+    "feedback": "Good learning ability and API knowledge, but needs to improve conciseness.",
+    "strengths": [
+      "learning ability",
+      "API knowledge"
+    ],
+    "weaknesses": [
+      "conciseness"
+    ]
+  },
+  {
+    "feedback": "Good API knowledge, but needs to improve slow problem solving and overengineering.",
+    "strengths": [
+      "API knowledge"
+    ],
+    "weaknesses": [
+      "slow problem solving",
+      "overengineering"
+    ]
+  },
+  {
+    "feedback": "Good communication and confidence, but needs to improve slow problem solving.",
+    "strengths": [
+      "communication",
+      "confidence"
+    ],
+    "weaknesses": [
+      "slow problem solving"
+    ]
+  },
+  {
+    "feedback": "Good system design, but needs to improve slow problem solving.",
+    "strengths": [
+      "system design"
+    ],
+    "weaknesses": [
+      "slow problem solving"
+    ]
+  },
+  {
+    "feedback": "Good DSA knowledge, but needs to improve time complexity.",
+    "strengths": [
+      "DSA knowledge"
+    ],
+    "weaknesses": [
+      "time complexity"
+    ]
+  },
+  {
+    "feedback": "Good problem solving and clear thought process, but needs to improve misunderstood question.",
+    "strengths": [
+      "problem solving",
+      "clear thought process"
+    ],
+    "weaknesses": [
+      "misunderstood question"
+    ]
+  },
+  {
+    "feedback": "Good team collaboration and system design, but needs to improve slow problem solving.",
+    "strengths": [
+      "team collaboration",
+      "system design"
+    ],
+    "weaknesses": [
+      "slow problem solving"
+    ]
+  },
+  {
+    "feedback": "Good leadership and system design, but needs to improve debugging and poor system design.",
+    "strengths": [
+      "leadership",
+      "system design"
+    ],
+    "weaknesses": [
+      "debugging",
+      "poor system design"
+    ]
+  },
+  {
+    "feedback": "Good problem solving, but needs to improve incomplete answers.",
+    "strengths": [
+      "problem solving"
+    ],
+    "weaknesses": [
+      "incomplete answers"
+    ]
+  },
+  {
+    "feedback": "Good learning ability, but needs to improve conciseness and time complexity.",
+    "strengths": [
+      "learning ability"
+    ],
+    "weaknesses": [
+      "conciseness",
+      "time complexity"
+    ]
+  },
+  {
+    "feedback": "Good team collaboration, but needs to improve conciseness.",
+    "strengths": [
+      "team collaboration"
+    ],
+    "weaknesses": [
+      "conciseness"
+    ]
+  },
+  {
+    "feedback": "Good system design, but needs to improve slow problem solving.",
+    "strengths": [
+      "system design"
+    ],
+    "weaknesses": [
+      "slow problem solving"
+    ]
+  },
+  {
+    "feedback": "Good communication and problem solving, but needs to improve debugging and overengineering.",
+    "strengths": [
+      "communication",
+      "problem solving"
+    ],
+    "weaknesses": [
+      "debugging",
+      "overengineering"
+    ]
+  },
+  {
+    "feedback": "Good learning ability and problem solving, but needs to improve debugging.",
+    "strengths": [
+      "learning ability",
+      "problem solving"
+    ],
+    "weaknesses": [
+      "debugging"
+    ]
+  },
+  {
+    "feedback": "Good clear thought process, but needs to improve misunderstood question and code readability.",
+    "strengths": [
+      "clear thought process"
+    ],
+    "weaknesses": [
+      "misunderstood question",
+      "code readability"
+    ]
+  },
+  {
+    "feedback": "Good DSA knowledge, but needs to improve conciseness and edge case handling.",
+    "strengths": [
+      "DSA knowledge"
+    ],
+    "weaknesses": [
+      "conciseness",
+      "edge case handling"
+    ]
+  },
+  {
+    "feedback": "Good leadership, but needs to improve overengineering and poor system design.",
+    "strengths": [
+      "leadership"
+    ],
+    "weaknesses": [
+      "overengineering",
+      "poor system design"
+    ]
+  },
+  {
+    "feedback": "Good clear thought process and API knowledge, but needs to improve overengineering and debugging.",
+    "strengths": [
+      "clear thought process",
+      "API knowledge"
+    ],
+    "weaknesses": [
+      "overengineering",
+      "debugging"
+    ]
+  },
+  {
+    "feedback": "Good team collaboration and attention to detail, but needs to improve slow problem solving and overengineering.",
+    "strengths": [
+      "team collaboration",
+      "attention to detail"
+    ],
+    "weaknesses": [
+      "slow problem solving",
+      "overengineering"
+    ]
+  },
+  {
+    "feedback": "Good system design, but needs to improve overengineering.",
+    "strengths": [
+      "system design"
+    ],
+    "weaknesses": [
+      "overengineering"
+    ]
+  },
+  {
+    "feedback": "Good communication and clear thought process, but needs to improve code readability and incomplete answers.",
+    "strengths": [
+      "communication",
+      "clear thought process"
+    ],
+    "weaknesses": [
+      "code readability",
+      "incomplete answers"
+    ]
+  },
+  {
+    "feedback": "Good leadership, but needs to improve edge case handling and time complexity.",
+    "strengths": [
+      "leadership"
+    ],
+    "weaknesses": [
+      "edge case handling",
+      "time complexity"
+    ]
+  },
+  {
+    "feedback": "Good confidence and DSA knowledge, but needs to improve poor system design and vague explanation.",
+    "strengths": [
+      "confidence",
+      "DSA knowledge"
+    ],
+    "weaknesses": [
+      "poor system design",
+      "vague explanation"
+    ]
+  },
+  {
+    "feedback": "Good API knowledge and technical explanation, but needs to improve vague explanation.",
+    "strengths": [
+      "API knowledge",
+      "technical explanation"
+    ],
+    "weaknesses": [
+      "vague explanation"
+    ]
+  },
+  {
+    "feedback": "Good learning ability and clear thought process, but needs to improve time complexity and lack of confidence.",
+    "strengths": [
+      "learning ability",
+      "clear thought process"
+    ],
+    "weaknesses": [
+      "time complexity",
+      "lack of confidence"
+    ]
+  },
+  {
+    "feedback": "Good confidence and learning ability, but needs to improve vague explanation and misunderstood question.",
+    "strengths": [
+      "confidence",
+      "learning ability"
+    ],
+    "weaknesses": [
+      "vague explanation",
+      "misunderstood question"
+    ]
+  },
+  {
+    "feedback": "Good clear thought process, but needs to improve lack of confidence and debugging.",
+    "strengths": [
+      "clear thought process"
+    ],
+    "weaknesses": [
+      "lack of confidence",
+      "debugging"
+    ]
+  },
+  {
+    "feedback": "Good system design and team collaboration, but needs to improve edge case handling.",
+    "strengths": [
+      "system design",
+      "team collaboration"
+    ],
+    "weaknesses": [
+      "edge case handling"
+    ]
+  },
+  {
+    "feedback": "Good communication and problem solving, but needs to improve misunderstood question and lack of confidence.",
+    "strengths": [
+      "communication",
+      "problem solving"
+    ],
+    "weaknesses": [
+      "misunderstood question",
+      "lack of confidence"
+    ]
+  },
+  {
+    "feedback": "Good communication and problem solving, but needs to improve debugging and misunderstood question.",
+    "strengths": [
+      "communication",
+      "problem solving"
+    ],
+    "weaknesses": [
+      "debugging",
+      "misunderstood question"
+    ]
+  },
+  {
+    "feedback": "Good API knowledge, but needs to improve overengineering and slow problem solving.",
+    "strengths": [
+      "API knowledge"
+    ],
+    "weaknesses": [
+      "overengineering",
+      "slow problem solving"
+    ]
+  },
+  {
+    "feedback": "Good learning ability, but needs to improve poor system design.",
+    "strengths": [
+      "learning ability"
+    ],
+    "weaknesses": [
+      "poor system design"
+    ]
+  },
+  {
+    "feedback": "Good confidence, but needs to improve misunderstood question.",
+    "strengths": [
+      "confidence"
+    ],
+    "weaknesses": [
+      "misunderstood question"
+    ]
+  },
+  {
+    "feedback": "Good clear thought process, but needs to improve code readability and conciseness.",
+    "strengths": [
+      "clear thought process"
+    ],
+    "weaknesses": [
+      "code readability",
+      "conciseness"
+    ]
+  },
+  {
+    "feedback": "Good learning ability and DSA knowledge, but needs to improve slow problem solving.",
+    "strengths": [
+      "learning ability",
+      "DSA knowledge"
+    ],
+    "weaknesses": [
+      "slow problem solving"
+    ]
+  },
+  {
+    "feedback": "Good system design and API knowledge, but needs to improve slow problem solving and code readability.",
+    "strengths": [
+      "system design",
+      "API knowledge"
+    ],
+    "weaknesses": [
+      "slow problem solving",
+      "code readability"
+    ]
+  },
+  {
+    "feedback": "Good system design and problem solving, but needs to improve poor system design.",
+    "strengths": [
+      "system design",
+      "problem solving"
+    ],
+    "weaknesses": [
+      "poor system design"
+    ]
+  },
+  {
+    "feedback": "Good confidence, but needs to improve vague explanation.",
+    "strengths": [
+      "confidence"
+    ],
+    "weaknesses": [
+      "vague explanation"
+    ]
+  },
+  {
+    "feedback": "Good communication and confidence, but needs to improve overengineering and debugging.",
+    "strengths": [
+      "communication",
+      "confidence"
+    ],
+    "weaknesses": [
+      "overengineering",
+      "debugging"
+    ]
+  }
+]
