@@ -18,32 +18,37 @@ export default function HeroSection() {
 
         <div className="mx-auto max-w-4xl py-16 sm:py-24 lg:py-20">
           <div className="hidden sm:mb-8 sm:flex sm:justify-center">
-            <div className="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
-       How to use this AI interview mocker .{' '}
-              <a href="/how-it-works" className="font-semibold text-indigo-600">
-                <span aria-hidden="true" className="absolute inset-0" />
-                Read more <span aria-hidden="true">&rarr;</span>
+            <div className="relative inline-block rounded-full px-4 py-2 text-sm leading-6 bg-yellow-50 text-gray-700 ring-1 ring-yellow-400 shadow-md hover:ring-yellow-500 transition-all duration-300">
+               <span className="font-handwriting text-base text-purple-800">Your personal AI Interview Coach is here!</span>{' '}
+              <a href="/how-it-works" className="ml-2 inline-block font-semibold text-purple-600 relative group">
+                <span className=" decoration-indigo-500 underline-offset-4">
+                  Read more <span aria-hidden="true">&rarr;</span>
+                </span>
               </a>
             </div>
           </div>
 
           <div className="text-center">
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-              Your Personal AI Interview Coach
+              Your <span className="relative inline-block">
+                <span className="font-handwriting text-purple-600">Personal AI</span>
+                <span className="absolute left-0 bottom-0 translate-y-2 w-full h-2 bg-yellow-300 opacity-70 -z-0 rounded-md"></span>              </span>{' '}
+              Interview Coach
             </h1>
+
             <p className="mt-6 text-lg leading-8 text-gray-600 sm:text-xl">
               2x your chances of landing that job offer with our AI-powered interview prep
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <a
                 href="/dashboard"
-                className="rounded-md bg-indigo-600 px-4 py-3 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+                className="rounded-md bg-purple-600 px-4 py-3 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
               >
                 Get started
               </a>
-              <a 
-                href="/dashboard" 
-                className="text-sm font-semibold leading-6 text-gray-900 hover:text-indigo-600"
+              <a
+                href="/dashboard"
+                className="text-sm font-semibold leading-6 text-gray-900 hover:text-purple-600"
               >
                 Learn more <span aria-hidden="true">→</span>
               </a>

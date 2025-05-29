@@ -8,12 +8,12 @@ import {
   CollapsibleContent,
   CollapsibleTrigger,
 } from "@/components/ui/collapsible";
-import { 
-  CheckCircle2, 
-  XCircle, 
-  ChevronsUpDown, 
-  Activity, 
-  Target 
+import {
+  CheckCircle2,
+  XCircle,
+  ChevronsUpDown,
+  Activity,
+  Target
 } from 'lucide-react';
 import { Button } from "@/components/ui/button";
 import { useRouter } from 'next/navigation';
@@ -45,8 +45,8 @@ const Feedback = ({ params }) => {
       .filter((rating) => !isNaN(rating));
 
     const totalRating = validRatings.reduce((sum, rating) => sum + rating, 0);
-    const avgRating = validRatings.length > 0 
-      ? (totalRating / validRatings.length).toFixed(1) 
+    const avgRating = validRatings.length > 0
+      ? (totalRating / validRatings.length).toFixed(1)
       : "N/A";
 
     setAverageRating(avgRating);
@@ -82,11 +82,11 @@ const Feedback = ({ params }) => {
           </CardHeader>
           <CardContent className="text-center">
             <p className="text-gray-600 mb-6">
-              It seems like no feedback has been generated for this interview. 
+              It seems like no feedback has been generated for this interview.
               This could be due to an incomplete interview or a system issue.
             </p>
-            <Button 
-              variant="outline" 
+            <Button
+              variant="outline"
               onClick={() => router.replace('/dashboard')}
               className="w-full"
             >
@@ -137,14 +137,13 @@ const Feedback = ({ params }) => {
                 <CollapsibleTrigger className="w-full">
                   <div className="flex items-center justify-between p-4 bg-gray-100 hover:bg-gray-200 transition-colors">
                     <div className="flex items-center gap-3">
-                      <Target 
-                        className={`h-5 w-5 ${
-                          parseFloat(item.rating) >= 7 
-                            ? "text-green-500" 
-                            : parseFloat(item.rating) >= 4 
-                            ? "text-yellow-500" 
-                            : "text-red-500"
-                        }`} 
+                      <Target
+                        className={`h-5 w-5 ${parseFloat(item.rating) >= 7
+                            ? "text-green-500"
+                            : parseFloat(item.rating) >= 4
+                              ? "text-yellow-500"
+                              : "text-red-500"
+                          }`}
                       />
                       <span className="font-medium text-gray-800 line-clamp-1">
                         {item.question}
@@ -185,27 +184,42 @@ const Feedback = ({ params }) => {
             ))}
 
             <div className="text-center mt-8">
-              <Button 
+              <Button
                 onClick={() => router.replace('/dashboard')}
-                className="w-full md:w-auto"
+                className="w-full md:w-auto m-5 bg-indigo-600"
               >
                 Return to Dashboard
               </Button>
 
-              <Button 
-              onClick={() => {
-                const allFeedbackText = feedbackList
-                  .map(item => item.feedback)
-                  .filter(Boolean)
-                  .join(' '); // concatenate all feedback
+              <Button
+                onClick={() => {
+                  const allFeedbackText = feedbackList
+                    .map(item => item.feedback)
+                    .filter(Boolean)
+                    .join(' '); // concatenate all feedback
 
-                localStorage.setItem('feedback_summary', allFeedbackText);
-                router.replace('/check');
-              }}
-              className="w-full md:w-auto"
+                  localStorage.setItem('feedback_summary', allFeedbackText);
+                  router.replace('/check');
+                }}
+                className="w-full md:w-auto mt-4 m-5 bg-yellow-500 text-black p-3 rounded-lg text-sm border border-green-200 hover:bg-yellow-800 hover:text-white"
               >
-              Check Skill Assessment
-            </Button>
+                Check Skill Assessment
+              </Button>
+
+              <Button
+                onClick={() => {
+                  const allFeedbackText = feedbackList
+                    .map(item => item.feedback)
+                    .filter(Boolean)
+                    .join(' ');
+                    console.log(feedbackList)
+                  localStorage.setItem('roadmap_feedback', allFeedbackText);
+                  router.push('/roadmap');
+                }}
+                className="w-full md:w-auto mt-4 m-5 bg-green-600 text-black p-3 rounded-lg text-sm border border-green-200 hover:bg-green-900 hover:text-white"
+              >
+                See your Progress Roadmap 
+              </Button>
 
             </div>
           </div>

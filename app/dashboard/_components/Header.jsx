@@ -75,8 +75,8 @@ function Header() {
           aria-label="MockMate AI Home"
           onClick={closeMobileMenu}
         >
-          <Bot className="text-indigo-600" size={28} />
-          <span className="text-xl sm:text-2xl font-bold text-indigo-600">PrepWise AI</span>
+          <Bot className="text-purple-600" size={28} />
+          <span className="text-xl sm:text-2xl font-bold text-purple-600">PrepWise AI</span>
         </Link>
 
         {/* Desktop Navigation */}
@@ -99,7 +99,7 @@ function Header() {
         <div className="md:hidden">
           <button
             onClick={toggleMobileMenu}
-            className="focus:outline-none text-gray-600 hover:text-indigo-600 transition-colors"
+            className="focus:outline-none text-gray-600 hover:text-purple-600 transition-colors"
             aria-label={isMobileMenuOpen ? "Close Menu" : "Open Menu"}
             aria-expanded={isMobileMenuOpen}
           >
@@ -225,11 +225,11 @@ function NavItem({ path, href, label, mobile, onClick }) {
         focus:ring-indigo-500
         ${mobile
           ? "w-full text-lg py-3 text-center"
-          : "px-3 py-2 hover:bg-indigo-100 hover:text-indigo-600"
+          : "px-3 py-2 hover:bg-indigo-100 hover:text-purple-600"
         }
         ${path === href
-          ? "text-indigo-600 font-bold bg-indigo-100"
-          : "text-gray-700 hover:text-indigo-600"
+          ? "text-purple-600 font-bold bg-indigo-100"
+          : "text-gray-700 hover:text-purple-600"
         }
       `}
     >

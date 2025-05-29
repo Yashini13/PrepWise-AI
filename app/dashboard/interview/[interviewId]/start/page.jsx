@@ -81,7 +81,7 @@ const StartInterview = ({ params }) => {
           onAnswerSave={handleAnswerSave}
         />
       </div>
-      <div className="flex justify-end gap-6">
+      <div className="flex justify-end gap-6 mt-2">
         {activeQuestionIndex > 0 && (
           <Button onClick={() => setActiveQuestionIndex(activeQuestionIndex - 1)}>
             Previous Question

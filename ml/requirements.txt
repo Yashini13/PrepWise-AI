@@ -1,4 +1,5 @@
 Flask
+flask-cors==3.0.10
 joblib
 scikit-learn
 pandas

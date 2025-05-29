@@ -15,7 +15,7 @@ const AboutUsPage = () => {
 
   const tabContent = {
     mission: {
-      icon: <Target className="mr-2 text-indigo-600" />,
+      icon: <Target className="mr-2 text-purple-600" />,
       content: (
         <div className="space-y-4">
           <p className="text-base md:text-lg">PrepWise AI is on a mission to revolutionize interview preparation by providing personalized, intelligent AI coaching tailored to individual career aspirations.</p>
@@ -24,7 +24,7 @@ const AboutUsPage = () => {
       )
     },
     story: {
-      icon: <BookOpen className="mr-2 text-indigo-600" />,
+      icon: <BookOpen className="mr-2 text-purple-600" />,
       content: (
         <div className="space-y-4">
           <p className="text-base md:text-lg">The idea for PrepWise AI was born from firsthand experiences with the challenges of interview preparation. As a solo developer, I wanted to create a platform that simplifies the process and builds confidence in individuals.</p>
@@ -33,7 +33,7 @@ const AboutUsPage = () => {
       )
     },
     approach: {
-      icon: <Rocket className="mr-2 text-indigo-600" />,
+      icon: <Rocket className="mr-2 text-purple-600" />,
       content: (
         <div className="space-y-4">
           <p className="text-base md:text-lg">PrepWise AI leverages advanced AI algorithms to generate dynamic, contextually relevant interview questions based on your professional background and goals.</p>
@@ -45,17 +45,17 @@ const AboutUsPage = () => {
 
   const coreValues = [
     {
-      icon: <Award className="w-12 h-12 text-indigo-600 mb-4" />,
+      icon: <Award className="w-12 h-12 text-purple-600 mb-4" />,
       title: "Continuous Learning",
       description: "Always striving to improve and provide better tools for growth."
     },
     {
-      icon: <Users className="w-12 h-12 text-indigo-600 mb-4" />,
+      icon: <Users className="w-12 h-12 text-purple-600 mb-4" />,
       title: "Empowerment",
       description: "Supporting individuals in building confidence and achieving professional success."
     },
     {
-      icon: <Briefcase className="w-12 h-12 text-indigo-600 mb-4" />,
+      icon: <Briefcase className="w-12 h-12 text-purple-600 mb-4" />,
       title: "Excellence",
       description: "Delivering high-quality, impactful features to simplify interview preparation."
     }
@@ -66,7 +66,7 @@ const AboutUsPage = () => {
       <div className="max-w-7xl mx-auto">
         {/* Hero Section */}
         <div className="text-center mb-8 sm:mb-12 md:mb-16">
-          <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold text-gray-900">
+          <h1 className="text-5xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent mb-4">
             About PrepWise AI
           </h1>
           <p className="mt-4 max-w-xl mx-auto text-base sm:text-lg md:text-xl text-gray-600 px-4">

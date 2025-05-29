@@ -9,7 +9,7 @@ import {
   ListChecks,
   Trophy,
   Zap,
-  TrendingUp 
+  TrendingUp
 } from "lucide-react";
 
 import AddNewInterview from './_components/AddNewInterview'
@@ -53,24 +53,27 @@ function Dashboard() {
           userEmail: user.primaryEmailAddress.emailAddress
         })
       });
-  
+
       if (!response.ok) {
         const errorData = await response.json();
         throw new Error(errorData.message || 'Failed to fetch interview data');
       }
-  
+
       const data = await response.json();
-      
+
       // Filter interviews specific to the current user's email
+      const currentUserEmail = user.primaryEmailAddress.emailAddress.toLowerCase().trim();
+
       const userSpecificInterviews = data.userAnswers.filter(
-        interview => interview.userEmail === user.primaryEmailAddress.emailAddress
+        interview => (interview.userEmail?.toLowerCase().trim() === currentUserEmail)
       );
+
 
       setInterviewData(userSpecificInterviews);
 
       // Calculate and update stats
       const totalInterviews = userSpecificInterviews.length;
-      const bestScore = totalInterviews > 0 
+      const bestScore = totalInterviews > 0
         ? Math.max(...userSpecificInterviews.map(item => parseInt(item.rating || '0')))
         : 0;
       const improvementRate = calculateImprovementRate(userSpecificInterviews);
@@ -102,12 +105,18 @@ function Dashboard() {
 
   const calculateImprovementRate = (interviews) => {
     if (interviews.length <= 1) return 0;
-    
+
     const scores = interviews
       .map(interview => parseInt(interview.rating || '0'))
+      .filter(score => !isNaN(score)) // Ensure only valid numbers
       .sort((a, b) => a - b);
-    
-    const improvement = ((scores[scores.length - 1] - scores[0]) / scores[0]) * 100;
+
+    const firstScore = scores[0];
+    const lastScore = scores[scores.length - 1];
+
+    if (firstScore === 0) return 0; // Prevent division by zero
+
+    const improvement = ((lastScore - firstScore) / firstScore) * 100;
     return Math.round(improvement);
   };
 
@@ -122,7 +131,7 @@ function Dashboard() {
       {/* User Greeting */}
       <div className="flex flex-col sm:flex-row justify-between items-center mb-8 space-y-4 sm:space-y-0">
         <div>
-          <h2 className="text-2xl sm:text-3xl font-bold text-gray-800 flex items-center gap-3">
+          <h2 className="text-2xl sm:text-3xl font-bold text-gray-800 flex items-center gap-3 ">
             <Bot className="text-indigo-600" size={32} />
             Dashboard
           </h2>
@@ -140,7 +149,7 @@ function Dashboard() {
       {/* Stats Cards */}
       <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 mb-8">
         {statsCards.map((card) => (
-          <div 
+          <div
             key={card.title}
             className="bg-white p-4 sm:p-6 rounded-lg shadow-md hover:shadow-lg transition-all flex items-center"
           >
@@ -156,13 +165,13 @@ function Dashboard() {
       {/* Interview Section */}
       <div className="bg-gray-50 p-4 sm:p-6 rounded-lg">
         <div className="flex flex-col sm:flex-row items-center justify-between mb-6 space-y-4 sm:space-y-0">
-          <h2 className="text-xl sm:text-2xl font-semibold text-gray-800 flex items-center gap-3">
+          <h2 className="text-xl sm:text-2xl font-semibold text-gray-800 flex items-center gap-3 ">
             <Zap size={24} className="text-yellow-500" />
             Create AI Mock Interview
           </h2>
-          <button 
+          <button
             onClick={() => setIsNewInterviewModalOpen(true)}
-            className="flex items-center bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors"
+            className="flex items-center bg-purple-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors"
           >
             <Plus size={20} className="mr-2" />
             New Interview
@@ -171,15 +180,15 @@ function Dashboard() {
 
         {/* Add New Interview Component */}
         <div className='grid grid-cols-1 sm:grid-cols-3 gap-6'>
-          <AddNewInterview 
-            isOpen={isNewInterviewModalOpen} 
-            onClose={() => setIsNewInterviewModalOpen(false)} 
+          <AddNewInterview
+            isOpen={isNewInterviewModalOpen}
+            onClose={() => setIsNewInterviewModalOpen(false)}
           />
         </div>
       </div>
 
-     {/* Interview History */}
-     <div className="mt-8">
+      {/* Interview History */}
+      <div className="mt-8">
         <h2 className="text-xl sm:text-2xl font-semibold text-gray-800 mb-6">
           Interview History
         </h2>

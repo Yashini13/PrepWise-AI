@@ -16,7 +16,7 @@ const Footer = () => {
         {/* Social Media Links */}
         <div className="flex space-x-4">
           <a
-            href="https://github.com/mockmate"
+            href="https://github.com/Yashini13/PrepWise-AI"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-indigo-500 transition-colors"
@@ -25,7 +25,7 @@ const Footer = () => {
             <Github className="h-6 w-6" />
           </a>
           <a
-            href="https://linkedin.com/company/mockmate"
+            href="https://www.linkedin.com/in/yashini-pardeshi-608657211/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-indigo-500 transition-colors"
@@ -33,15 +33,7 @@ const Footer = () => {
           >
             <Linkedin className="h-6 w-6" />
           </a>
-          <a
-            href="https://twitter.com/mockmate"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="hover:text-indigo-500 transition-colors"
-            aria-label="Twitter"
-          >
-            <Twitter className="h-6 w-6" />
-          </a>
+          
         </div>
       </div>
     </footer>

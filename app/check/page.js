@@ -75,7 +75,7 @@ export default function CheckPage() {
 
     const fetchData = async () => {
       try {
-        const res = await fetch('http://127.0.0.1:5000/predict', {
+        const res = await fetch('https://python-ai-172407736127.us-central1.run.app/predict', { // put deployed link here
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ feedback }),
@@ -239,3 +239,4 @@ export default function CheckPage() {
     </div>
   );
 }
+
