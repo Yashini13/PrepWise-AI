@@ -99,7 +99,7 @@ function Interview({ params }) {
             />
           ) : (
             <>
-              <WebcamIcon className="h-72 my-7 border rounded-lg w-full p-20 bg-secondary" />
+              <WebcamIcon className="h-72 my-7 border rounded-lg w-full p-20 bg-secondary " />
               <Button
                 className="w-full"
                 variant="ghost"
