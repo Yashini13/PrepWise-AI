@@ -26,7 +26,7 @@ The Full Stack AI Mock Interview App allows users to practice technical and beha
 - **Data Persistence**: User data and interview history managed through Drizzle ORM.
 ## Additional Features
 - **AI Mock Tests**: Take dynamic mock tests powered by AI that adapt based on your performance and areas of improvement.
-- **Skill Assessment with BERT Model**: Utilize a BERT-based natural language understanding model to analyze your responses and assess your current skill levels with precision.
+- **Skill Assessment with BERT Model**: Utilize a BERT-based natural language understanding model to analyze your responses and assess your current skill levels with precision hosted on Google Cloud Platforms (GCP).
 - **Personalized Preparation Roadmap using Gemini AI**: Get a customized study plan tailored to your strengths, weaknesses, and goals, dynamically generated to maximize your learning efficiency.
 
 ## Technologies Used
